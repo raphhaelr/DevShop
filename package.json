@@ -1,0 +1,20 @@
+{
+  "name": "devshop",
+  "version": "1.0.0",
+  "description": "DevShop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DevShop"
+  ],
+  "author": "Raphael Rodrigues",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "mysql2": "^2.1.0"
+  }
+}
